@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, i'm Joul' 👋
+
+Currently learning Android development
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=bakjoul)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bakjoul/bakjoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
