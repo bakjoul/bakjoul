@@ -1,6 +1,6 @@
 ### Hi there, i'm Joul' 👋
 
-Currently learning Android development
+I'm currently learning Android development 🤖
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=bakjoul&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
