@@ -1,6 +1,6 @@
 ### Hi there, i'm Joul' 👋
 
-Android dev.
+I'm an Android dev.
 
 <!--
 **bakjoul/bakjoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
